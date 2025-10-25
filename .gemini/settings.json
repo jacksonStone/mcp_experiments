@@ -1,0 +1,20 @@
+{
+  "security": {
+    "auth": {
+      "selectedType": "gemini-api-key"
+    }
+  },
+  "mcpServers": 
+    {
+      "weather-server": {
+        "httpUrl": "http://localhost:3000/mcp" 
+      },
+      "gemini-server": {
+        "httpUrl": "http://localhost:3001/mcp" 
+      },
+      "addition-server": {
+        "httpUrl": "http://localhost:3002/mcp"
+      }
+    }
+  
+}

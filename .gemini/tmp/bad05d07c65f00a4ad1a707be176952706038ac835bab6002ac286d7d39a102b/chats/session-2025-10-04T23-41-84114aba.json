@@ -1,0 +1,14 @@
+{
+  "sessionId": "84114aba-2ce8-4ca4-8354-895698d9c1bf",
+  "projectHash": "bad05d07c65f00a4ad1a707be176952706038ac835bab6002ac286d7d39a102b",
+  "startTime": "2025-10-04T23:41:50.554Z",
+  "lastUpdated": "2025-10-04T23:41:50.554Z",
+  "messages": [
+    {
+      "id": "32471b42-708d-4f3f-b5e7-b99254b41358",
+      "timestamp": "2025-10-04T23:41:50.554Z",
+      "type": "user",
+      "content": "I've just created a new mcp server at localhost:3000/mcp - how do I wire this up to gemini CLI"
+    }
+  ]
+}

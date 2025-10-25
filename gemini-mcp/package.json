@@ -1,0 +1,19 @@
+{
+  "name": "gemini-mcp",
+  "version": "1.0.0",
+  "description": "An MCP server that invokes the gemini-cli.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.19.1",
+    "express": "^4.19.2",
+    "zod": "^3.23.8"
+  }
+}
